@@ -1,0 +1,5 @@
+server name: mega-batch3.database.windows.net
+db1: mega-sample
+db2: FakeCustomers_DS
+user: megabagus
+pass: MegaDS_AZ
